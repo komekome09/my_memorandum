@@ -5,4 +5,4 @@ theme = "the-roots-home"
 enableGitInfo = true
 enableEmoji = true
 [params]
-Description: memorandum
+Description = "memorandum"
