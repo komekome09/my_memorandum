@@ -13,6 +13,8 @@ jobs:
               with:
                   submodules: true
                   fetch-depth: 0
+            - name: Pre-Setup Themes
+              run: cp -r themes/the-roots-home/exampleSite/resources .
             - name: Setup Hugo
               uses: peaceiris/actions-hugo@v2
               with:
