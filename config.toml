@@ -1,4 +1,8 @@
 baseURL = "https://komekome09.github.io/my_memorandum/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+languageCode = "ja-JP"
+title = "fakeroot"
 theme = "the-roots-home"
+enableGitInfo = true
+enableEmoji = true
+[params]
+Description: memorandum
